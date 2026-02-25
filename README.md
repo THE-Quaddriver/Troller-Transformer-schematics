@@ -10,7 +10,7 @@ I will create the list of subs as I go on, so far, EVERY part is COTS, from mous
 
 
 Transistor subs:
-Transamp1 Darlington (Q1) - it nota TIP120 or better, make it one.  5A handling, 65w dissipation is more than ok for a 1 amp unit
+Transamp1 Darlington (Q1) - if not a TIP120 or better, make it one.  5A handling, 65w dissipation is more than ok for a 1 amp unit
 Momentum 1 Darlington (Q1) - I have found a BDW23A, this is a similar Vebo and Hfe to the TIP120, but its Pd is half.  Change to a
 TIP120
 
@@ -41,4 +41,4 @@ Vintage train power packs contain high-voltage components that can be lethal.
 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
-© 2024 [Ed Graffius/THE-Quaddriver]. 
+© 2026 [Ed Graffius/THE-Quaddriver]. 
