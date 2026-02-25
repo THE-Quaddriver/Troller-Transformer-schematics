@@ -28,3 +28,13 @@ Capacitor subs:
 The momentum 1 has 'from factory' capacitors, upgrade both electrolytics from 25v to 35v and use modern units.  C203 the .022uf 50v should be
 fine but track spikes from a flywheel loco being a generator over bad track/switches etc can spike higher and eventually damage the unit, you
 COULD upgrade this to 100v.
+
+---
+### ⚠️ Disclaimer
+This documentation is for educational and historical preservation purposes only. 
+The author is an amateur hobbyist, not a licensed electrical engineer. 
+Vintage train power packs contain high-voltage components that can be lethal. 
+*   **Work at your own risk:** I am not responsible for any damage to your equipment, 
+    property, or personal injury resulting from the use of these schematics.
+*   **Accuracy:** While I have done my best to trace these circuits, they may contain 
+    errors or reflect specific production runs that differ from your unit. 
