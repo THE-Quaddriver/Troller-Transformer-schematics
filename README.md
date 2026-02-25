@@ -1,4 +1,4 @@
-# Troller-Transformer-schematics
+# # Troller Model 34 Model 20 Auto pulse Power Pack Schematic and Repair Guide
 As I fix old Troller 'Auto Pulse' transformers, I am 'tabbing out' a schematic on Tiny-CAD and posting for the world to use.
 
 I have done first the 'Transamp 1', modernized it, fixed its weaknesses and added some suggested improvments in the jpeg file.
